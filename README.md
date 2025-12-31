@@ -1,2 +1,2 @@
 # ForgeAI
-Plataforma de Gestão de Projetos
+Plataforma de Inteligência para Gestão de Projetos de Software e Aplicativos
